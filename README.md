@@ -224,3 +224,9 @@ If you lose this file, you lose knowing the state of your infrastructure.
 
 `.terraform` directory contains binaries of terraform providers.
 
+### Terraform Destroy
+
+`terraform destroy`
+
+This will destroy resources
+
